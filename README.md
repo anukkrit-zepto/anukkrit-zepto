@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Golang Projects
 - 📫 How to reach me.
-         work email -> anukkrit.shanker@zeptonow.com
-         personal email -> anukkrit.official@gmail.com
-         personal github -> @anukkrit149
+        - work email -> anukkrit.shanker@zeptonow.com
+        - personal email -> anukkrit.official@gmail.com
+        - personal github -> @anukkrit149
 
 <!---
 anukkrit-zepto/anukkrit-zepto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
